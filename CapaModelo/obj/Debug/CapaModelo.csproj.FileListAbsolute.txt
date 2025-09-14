@@ -1,0 +1,9 @@
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaModelo\bin\Debug\CapaControlador.dll
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaModelo\bin\Debug\CapaControlador.pdb
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaModelo\obj\Debug\CapaModelo.csproj.Up2Date

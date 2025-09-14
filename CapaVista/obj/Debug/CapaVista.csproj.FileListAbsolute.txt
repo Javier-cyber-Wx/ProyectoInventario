@@ -1,0 +1,14 @@
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaVista\obj\Debug\CapaVista.csproj.Up2Date
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaVista\obj\Debug\CapaVista.Inicio_de_Sesión.resources
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaVista\obj\Debug\CapaVista.Registro_de_Usuario.resources
+C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaVista\obj\Debug\CapaVista.Menu.resources
