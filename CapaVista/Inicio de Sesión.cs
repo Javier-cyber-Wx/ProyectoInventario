@@ -30,9 +30,10 @@ namespace CapaVista
                 if (sesionValida)
                 {
                     MessageBox.Show("Bienvenido " + usuario + "!");
-                    Menu menu = new Menu();
-                    menu.Show();
                     this.Hide();
+                    Menu menu = new Menu();
+                    menu.ShowDialog();
+                    this.Close();
                 }
                 else 
                 {
@@ -43,6 +44,14 @@ namespace CapaVista
             {
                 MessageBox.Show("Ocurrió un error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        private void btn_registrarusuario_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Registro_de_Usuario registro = new Registro_de_Usuario();
+            registro.ShowDialog();
+            this.Close();
         }
     }
 }

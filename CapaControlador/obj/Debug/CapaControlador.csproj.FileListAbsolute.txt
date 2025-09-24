@@ -13,3 +13,6 @@ C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaControlador\
 C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaControlador\obj\Debug\CapaCont.E79CC33A.Up2Date
 C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaControlador\obj\Debug\CapaControlador.dll
 C:\Users\oscar\OneDrive\Escritorio\ProyectoInventario-Seminario\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\pcita\source\repos\ProyectoInventario\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\pcita\source\repos\ProyectoInventario\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\pcita\source\repos\ProyectoInventario\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete

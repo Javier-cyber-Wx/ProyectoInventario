@@ -32,5 +32,13 @@ namespace CapaVista
                 MessageBox.Show("Ocurrio un error" + ex);
             }
         }
+
+        private void salir_registrousuario_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Inicio_de_Sesión inicio = new Inicio_de_Sesión();
+            inicio.ShowDialog();
+            this.Close();
+        }
     }
 }
