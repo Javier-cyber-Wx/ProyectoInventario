@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CapaControlador;
 
 namespace CapaVista
 {
@@ -15,6 +16,33 @@ namespace CapaVista
         public Inicio_de_Sesión()
         {
             InitializeComponent();
+        }
+        private void btn_iniciarSesion_Click(object sender, EventArgs e)
+        {
+            string usuario = txt_Usuario.Text;
+            string contraseña = txt_Contraseña.Text;
+
+            try
+            {
+                controlador capaControlador_Login = new controlador();
+                bool sesionValida = capaControlador_Login.iniciarSesion(usuario, contraseña);
+
+                if (sesionValida)
+                {
+                    MessageBox.Show("Bienvenido " + usuario + "!");
+                    Menu menu = new Menu();
+                    menu.Show();
+                    this.Hide();
+                }
+                else 
+                {
+                    MessageBox.Show("Usuario o contraseña incorrectos", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Ocurrió un error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }

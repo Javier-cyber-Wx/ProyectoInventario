@@ -16,5 +16,10 @@ namespace CapaVista
         {
             InitializeComponent();
         }
+        private void btn_movimientoEmpleados_Click(object sender, EventArgs e)
+        {
+            Movimiento_de_empleados movimiento_De_Empleados = new Movimiento_de_empleados();
+            movimiento_De_Empleados.Show();
+        }
     }
 }

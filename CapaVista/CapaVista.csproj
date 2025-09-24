@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CapaControlador">
+      <HintPath>..\CapaControlador\bin\Debug\CapaControlador.dll</HintPath>
+    </Reference>
     <Reference Include="CapaModelo">
       <HintPath>..\CapaModelo\bin\Debug\CapaModelo.dll</HintPath>
     </Reference>
@@ -76,6 +79,12 @@
     <Compile Include="Movimiento de Bodegas.Designer.cs">
       <DependentUpon>Movimiento de Bodegas.cs</DependentUpon>
     </Compile>
+    <Compile Include="Movimiento de empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movimiento de empleados.Designer.cs">
+      <DependentUpon>Movimiento de empleados.cs</DependentUpon>
+    </Compile>
     <Compile Include="Movimientos de Inventario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -110,6 +119,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Movimiento de Bodegas.resx">
       <DependentUpon>Movimiento de Bodegas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movimiento de empleados.resx">
+      <DependentUpon>Movimiento de empleados.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Movimientos de Inventario.resx">
       <DependentUpon>Movimientos de Inventario.cs</DependentUpon>

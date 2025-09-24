@@ -32,17 +32,17 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
             this.button4 = new System.Windows.Forms.Button();
+            this.label7 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
+            this.label6 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.label4 = new System.Windows.Forms.Label();
             this.btn_movimientoEmpleados = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.label8 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -98,45 +98,15 @@
             this.panel1.Size = new System.Drawing.Size(920, 418);
             this.panel1.TabIndex = 6;
             // 
-            // label4
+            // label8
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Arial Rounded MT Bold", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(36, 180);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(289, 26);
-            this.label4.TabIndex = 1;
-            this.label4.Text = "Movimiento de empleados";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Arial Rounded MT Bold", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(331, 180);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(257, 26);
-            this.label5.TabIndex = 3;
-            this.label5.Text = "Movimiento de equipos";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Arial Rounded MT Bold", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(632, 180);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(265, 26);
-            this.label6.TabIndex = 5;
-            this.label6.Text = "Movimiento de bodegas";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Arial Rounded MT Bold", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(170, 333);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(264, 26);
-            this.label7.TabIndex = 7;
-            this.label7.Text = "Movimiento de usuarios";
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Arial Rounded MT Bold", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(616, 333);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(266, 26);
+            this.label8.TabIndex = 9;
+            this.label8.Text = "Movimiento de invetario";
             // 
             // button4
             // 
@@ -148,6 +118,16 @@
             this.button4.TabIndex = 8;
             this.button4.UseVisualStyleBackColor = true;
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Arial Rounded MT Bold", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(170, 333);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(264, 26);
+            this.label7.TabIndex = 7;
+            this.label7.Text = "Movimiento de usuarios";
+            // 
             // button3
             // 
             this.button3.BackgroundImage = global::CapaVista.Properties.Resources.avatar;
@@ -157,6 +137,16 @@
             this.button3.Size = new System.Drawing.Size(237, 121);
             this.button3.TabIndex = 6;
             this.button3.UseVisualStyleBackColor = true;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Arial Rounded MT Bold", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(632, 180);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(265, 26);
+            this.label6.TabIndex = 5;
+            this.label6.Text = "Movimiento de bodegas";
             // 
             // button2
             // 
@@ -168,6 +158,16 @@
             this.button2.TabIndex = 4;
             this.button2.UseVisualStyleBackColor = true;
             // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Arial Rounded MT Bold", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(331, 180);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(257, 26);
+            this.label5.TabIndex = 3;
+            this.label5.Text = "Movimiento de equipos";
+            // 
             // button1
             // 
             this.button1.BackgroundImage = global::CapaVista.Properties.Resources.sistema_informatico;
@@ -178,6 +178,16 @@
             this.button1.TabIndex = 2;
             this.button1.UseVisualStyleBackColor = true;
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Arial Rounded MT Bold", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(36, 180);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(289, 26);
+            this.label4.TabIndex = 1;
+            this.label4.Text = "Movimiento de empleados";
+            // 
             // btn_movimientoEmpleados
             // 
             this.btn_movimientoEmpleados.BackgroundImage = global::CapaVista.Properties.Resources.rotacion_de_puestos_de_trabajo;
@@ -187,6 +197,7 @@
             this.btn_movimientoEmpleados.Size = new System.Drawing.Size(237, 159);
             this.btn_movimientoEmpleados.TabIndex = 0;
             this.btn_movimientoEmpleados.UseVisualStyleBackColor = true;
+            this.btn_movimientoEmpleados.Click += new System.EventHandler(this.btn_movimientoEmpleados_Click);
             // 
             // pictureBox1
             // 
@@ -197,16 +208,6 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Arial Rounded MT Bold", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(616, 333);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(266, 26);
-            this.label8.TabIndex = 9;
-            this.label8.Text = "Movimiento de invetario";
             // 
             // Menu
             // 
